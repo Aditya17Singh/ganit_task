@@ -1,0 +1,1 @@
+Firstly I made server and client then I fetch data in frontend and in backened I connect to mongodata base where i sent all the data in databse of mongoDB.
